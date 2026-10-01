@@ -364,10 +364,7 @@ res$dataset_assessment$loci_removed_paralogs_all
 `assess_dataset()` also writes this as a plot
 (`02_assessment/3_LH_vs_AD.png`); the same view of the summary table:
 
-<div class="figure">
 <img src="rhybphaser_targets-fig-results-fig-1.png" alt="Locus heterozygosity versus allele divergence, one point per sample" width="70%" />
-<p class="caption">plot of chunk results-fig</p>
-</div>
 
 ### Clade association
 
